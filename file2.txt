@@ -1,1 +1,2 @@
  First line in file2.txt
+Second linr in fil2.txt
